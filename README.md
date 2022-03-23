@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArkyvIO
 - 👀 I’m interested in all things tech!
 - 🌱 I’m currently learning javascript!
-- 💞️ I’m looking to collaborate on anything!
+- 💞️ I’m looking to collaborate on almost anything!
 - 📫 How to reach me: arkyvio@gmail.com
 - My Web: [Arkyv.IO](https://www.arkyv.io/)
 
