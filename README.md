@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @ArkyvIO
-- 👀 I’m interested in all things tech!
-- 🌱 I’m currently learning javascript!
-- 💞️ I’m looking to collaborate on almost anything!
-- 📫 How to reach me: arkyvio@gmail.com
-- My Web: [Arkyv.IO](https://www.arkyv.io/)
-
-<!---
-ArkyvIO/ArkyvIO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# ARKYVIO
+---
+## Who is ArkyvIO?
+<p align="center">
+![Mike Graves](media/arkyvio.jpg)
+</p>
+My name is **Michael Graves**. I am a student at Roane State Community College, currently studying for an Associate of Applied Science in Computer Information Tech: Cyber Defense. I ==love== cybersecurity. 
+---
+## What is Mike Doing?
+I am interested in all things tech, but currently I am working on [The Odin Project](https://www.theodinproject.com), which is an online course that provides a complete path of learning and training to gain the skills necessary to become employed as a web developer. When I am not completing required coursework for my college, that is what I am working on!
