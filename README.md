@@ -39,7 +39,6 @@ I am currently engaged in [Udemy's 100 Days of Code Class](https://www.udemy.com
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-```
 
 ## Future Goals
 
