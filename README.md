@@ -15,30 +15,11 @@ I am **Michael Graves**, a recent graduate from Roane State Community College wi
     - Web design classes at Roane State
     - [BitBurner](https://store.steampowered.com/app/1812820/Bitburner/) (Game)
     - [Screeps](https://store.steampowered.com/app/464350/Screeps_World/) (Game)
-  - Java
-    - Java classes at Roane State
   - Linux system administration & Networking
-    - Favorite Linux Distribution: Arch Linux
-    - Self-hosted Apps Experience:
-        - The ARR suite
-          - Lidarr
-          - Overseerr
-          - Prowlarr
-          - Radarr
-          - Readarr
-          - Sonarr
-          - Kapowarr
-          - Tdarr
-        - Media Server: Plex
-        - Self-hosted Tools: Stirling-pdf, It-tools
-        - VPN: Headscale (a Tailscale self-hosted solution)
-    - Multiple Linux servers running in remote locations for docker containers, media servers, download servers, DNS servers, etc...
 
-## Favorite Server Software
-- Favorite Linux Distribution: Arch Linux
-- Favorite Server Distributions:
-  - UnRaid
-  - Debian
+## Linux
+
+I am a linux enthusiast. I use Arch BTW.
 
 ## Future Goals
 
