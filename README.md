@@ -9,7 +9,7 @@ I am **Michael Graves**, a recent graduate from Roane State Community College wi
   - Python
     - Engaged in [Udemy's 100 Days of Code Class](https://www.udemy.com/course/100-days-of-code/) by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/#instructor-1) to learn Python.
   - HTML/CSS
-    - [The Odin Project](https://www.theodinproject.com/):
+    - [The Odin Project](https://www.theodinproject.com/)
   - JavaScript
     - JavaScript classes at Roane State
     - Web design classes at Roane State
@@ -18,7 +18,27 @@ I am **Michael Graves**, a recent graduate from Roane State Community College wi
   - Java
     - Java classes at Roane State
   - Linux system administration & Networking
-    - Multiple linux servers running in remote locations for docker containers, media servers, download servers, DNS servers, etc... 
+    - Favorite Linux Distribution: Arch Linux
+    - Self-hosted Apps Experience:
+        - The ARR suite
+          - Lidarr
+          - Overseerr
+          - Prowlarr
+          - Radarr
+          - Readarr
+          - Sonarr
+          - Kapowarr
+          - Tdarr
+        - Media Server: Plex
+        - Self-hosted Tools: Stirling-pdf, It-tools
+        - VPN: Headscale (a Tailscale self-hosted solution)
+    - Multiple Linux servers running in remote locations for docker containers, media servers, download servers, DNS servers, etc...
+
+## Favorite Server Software
+- Favorite Linux Distribution: Arch Linux
+- Favorite Server Distributions:
+  - UnRaid
+  - Debian
 
 ## Future Goals
 
